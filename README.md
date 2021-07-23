@@ -1,6 +1,8 @@
 # coronavirus_tracker
 The source code of Coronavirus 2019 Cases Tracker App
 
+https://github.com/algonacci/coronavirus_tracker/blob/main/Screenshot_1627045819.png
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
