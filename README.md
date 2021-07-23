@@ -1,7 +1,8 @@
 # coronavirus_tracker
 The source code of Coronavirus 2019 Cases Tracker App
 
-https://github.com/algonacci/coronavirus_tracker/blob/main/Screenshot_1627045819.png
+![alt text](https://github.com/algonacci/coronavirus_tracker/blob/main/Screenshot_1627045819.png?raw=true)
+
 
 ## Getting Started
 
