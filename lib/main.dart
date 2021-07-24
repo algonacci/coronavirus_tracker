@@ -1,4 +1,4 @@
-import 'package:coronavirus_rest_api_flutter_course/app/repositories/data_repository.dart';
+import 'package:coronavirus_rest_api_flutter_course/app/repositories/data_repository.dart'
 import 'package:coronavirus_rest_api_flutter_course/app/services/api.dart';
 import 'package:coronavirus_rest_api_flutter_course/app/services/api_service.dart';
 import 'package:coronavirus_rest_api_flutter_course/app/services/data_cache_service.dart';
